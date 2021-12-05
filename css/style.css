@@ -12,6 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    Padding:20px 0;
 }
 h1{
     color: hsl(0, 0%, 95%);
